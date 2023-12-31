@@ -1,0 +1,2 @@
+Your seed route (/books/seed) needs to be accessed at least once to populate the database with the initial data. If you haven't accessed this route (http://localhost:3000/books/seed), 
+the database will remain empty, and your index route (/books) will return an empty array.
